@@ -6,6 +6,11 @@ target 'tumblr_lab' do
   use_frameworks!
 
   # Pods for tumblr_lab
+  pod 'Alamofire', '~> 4.4'
+  pod 'OAuthSwift', '~> 1.2.0'
+  pod 'OAuthSwiftAlamofire'
+  pod 'AlamofireImage', '~> 3.3'
+  pod 'AFNetworking'
 
   target 'tumblr_labTests' do
     inherit! :search_paths
