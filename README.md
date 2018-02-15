@@ -38,6 +38,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Challenges encountered while building the app include CocoaPod issues that resulted in the AlamoFireImage not getting imported, and a string of fatal, assembly, and runtime errors. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
